@@ -63,7 +63,8 @@
       </ul>
     </td>
     <td width="45%" align="center" valign="middle">
-      <!-- Dán link ảnh/GIF bạn vừa kéo thả upload lên GitHub vào đây -->
+      <!-- Dán link ảnh/GIF bạn vừa kéo thả upload lên GitHub vào đây --><img width="500" height="281" alt="image" src="https://github.com/user-attachments/assets/edf2cbb8-dd20-418d-95e0-4c18c160f60b" />
+
       <img src="https://pin.it/4ObX7Ya4P" width="100%" alt="https://pin.it/4ObX7Ya4P" />
     </td>
   </tr>
