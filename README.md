@@ -1,4 +1,7 @@
-<img width="1000" height="420" alt="image" src="https://github.com/user-attachments/assets/de1f711e-20e2-42e6-a820-a1edc09f654a" />
+<img width="1000" height="420" alt="image" src="https://github.com/user-attachments/assets/c59c3d72-2d88-4a0f-8b4b-9caa7132c5d3" />
+
+
+
 
 
 
@@ -68,8 +71,9 @@
       </ul>
     </td>
     <td width="45%" align="center" valign="middle">
-      <!-- Dán link ảnh/GIF bạn vừa kéo thả upload lên GitHub vào đây --><img width="735" height="495" alt="image" src="https://github.com/user-attachments/assets/d1e475fe-2294-42e2-b871-fad0ed67f920" 
- />  </td>
+      <!-- Dán link ảnh/GIF bạn vừa kéo thả upload lên GitHub vào đây --><img <img width="736" height="736" alt="image" src="https://github.com/user-attachments/assets/e9986857-d40f-4b42-a979-84807b5e4df1" />
+
+ </td>
 
    
 
