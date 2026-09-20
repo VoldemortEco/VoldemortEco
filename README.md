@@ -71,7 +71,8 @@
       </ul>
     </td>
     <td width="45%" align="center" valign="middle">
-      <!-- Dán link ảnh/GIF bạn vừa kéo thả upload lên GitHub vào đây --><img <img width="736" height="736" alt="image" src="https://github.com/user-attachments/assets/e9986857-d40f-4b42-a979-84807b5e4df1" />
+      <!-- Dán link ảnh/GIF bạn vừa kéo thả upload lên GitHub vào đây --> <img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/77b58d0b-87b9-43ce-b232-4bbc077e5db4" 
+ />
 
  </td>
 
